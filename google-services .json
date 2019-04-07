@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "298726573134",
+    "firebase_url": "https://cure-all-a3b38.firebaseio.com",
+    "project_id": "cure-all-a3b38",
+    "storage_bucket": "cure-all-a3b38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298726573134:android:2a1ba68a038b2b77",
+        "android_client_info": {
+          "package_name": "com.example.shiva.cureall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298726573134-cgf8bg2p666vk7ki17bfrmkkprv175c0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shiva.cureall",
+            "certificate_hash": "177cf4ae5a9b8e9738fcb0c6e45475bd50422f7a"
+          }
+        },
+        {
+          "client_id": "298726573134-eic1a7mlubhefd0hhrv3vgnjgmvvlppu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWzvYOc7rUODTfE55XhYnLN4UELlaiFnw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298726573134-drdg3qal3rm7gevce7ga1r736rea6vl0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
